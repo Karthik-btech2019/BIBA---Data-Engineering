@@ -1,0 +1,7 @@
+temperature,time,skycondition,EventProcessedUtcTime,PartitionId,EventEnqueuedUtcTime
+"29°C","Thursday 12:29 pm","Partly Cloudy","2024-01-11T07:01:07.7186968Z",1,"2024-01-11T07:00:21.8710000Z"
+"29°C","Thursday 12:30 pm","Partly Cloudy","2024-01-11T07:01:30.2310124Z",1,"2024-01-11T07:01:30.1250000Z"
+"29°C","Thursday 12:31 pm","Partly Cloudy","2024-01-11T07:02:39.5107485Z",1,"2024-01-11T07:02:39.2680000Z"
+"29°C","Thursday 12:32 pm","Partly Cloudy","2024-01-11T07:03:47.8856707Z",1,"2024-01-11T07:03:47.6460000Z"
+"29°C","Thursday 12:33 pm","Partly Cloudy","2024-01-11T07:04:56.5883296Z",1,"2024-01-11T07:04:56.3820000Z"
+"29°C","Thursday 12:35 pm","Partly Cloudy","2024-01-11T07:06:05.3941082Z",1,"2024-01-11T07:06:05.1970000Z"
